@@ -29,7 +29,7 @@ asmMain:
                 str x1, [sp]
                 bl  printf
 
-    cond:
+    cond:                             // label just to set breakpoint easy
                 lea x10, counter
                 ldr x9, [x10]
                 add x9, x9, #1

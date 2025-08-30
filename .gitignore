@@ -1,0 +1,10 @@
+*.o
+.DS_Store
+01-01/Listing1-1
+01-01/Listing1-1-gcc
+01-02/Listing1-2
+01-02/Listing1-2-cpp
+01-05/Listing1-5
+01-05/Listing1-5.dSYM/Contents/Resources/DWARF/Listing1-5
+01-02/a.out
+01-05/Listing1-5.dSYM

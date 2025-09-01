@@ -8,3 +8,5 @@
 01-05/Listing1-5.dSYM/Contents/Resources/DWARF/Listing1-5
 01-02/a.out
 01-05/Listing1-5.dSYM
+.venv/
+__pycache__
